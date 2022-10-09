@@ -1100,3 +1100,8 @@ html, body {
 * ***JavaScript/Front-End course at RS School*** - from 1st of October 2022
 * ***Beamline for Schools Competition at CERN (Top 30 teams)*** - 1st of February to 30 of April 2020
 * ***Extended First Aid Course from Łańcuch (Prze)życia Foundation*** - in May 2018
+
+### English
+
+* ***C1* group at Gdańsk University of Technology**
+* ***B2/C1* group at Marshall Stanisław Małachowski High School**
